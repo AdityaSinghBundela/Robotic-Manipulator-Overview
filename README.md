@@ -1,6 +1,8 @@
 # Robotic Manipulators Overview
 
 ## Confidentiality and IP Disclaimer
+> This repository presents a high-level, non-proprietary overview of robotic manipulators developed in an industrial setting. Specific dimensions, tolerances, part numbers, supplier details, costs, control algorithms, and internal test data have been intentionally abstracted or omitted to comply with company confidentiality and intellectual property policies. The focus of this documentation is on design intent, system-level architecture, and engineering trade-offs rather than proprietary implementation details.
+
 
 ## Overview
 
