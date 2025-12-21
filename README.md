@@ -1,5 +1,7 @@
 # Robotic Manipulators Overview
 
+## Confidentiality and IP Disclaimer
+
 ## Overview
 
 ## Manipulator 1: 5kg Payload Arm
