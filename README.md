@@ -344,6 +344,8 @@ Manufacturing strategy evolved with each generation to balance cost, performance
    - Optimizing individual components doesn't guarantee system-level optimization
    - **Lesson:** Evaluate trade-offs at system level, considering manufacturing, assembly, and lifecycle costs
 
+<!--
+
 ### What I Would Do Differently
 
 **If starting TR5_G1 today:**
@@ -387,6 +389,7 @@ This repository will be progressively updated with additional technical content:
 - Performance benchmarking methodologies
 
 ---
+-->
 
 ## About Me
 
