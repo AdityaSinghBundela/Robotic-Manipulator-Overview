@@ -10,7 +10,7 @@
 **Position:** Mechanical Engineer (Intern → FTE)  
 **Timeline:** January 2024 - Present  
 **Company:** Twara Robotics  
-**Team Size:** Small cross-functional team (5-8 people)
+**Team Size:** Small cross-functional team (<5 people)
 
 ### What I Owned
 - **Complete mechanical design** from concept through production for 5 manipulator variants
