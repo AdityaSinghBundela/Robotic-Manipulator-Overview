@@ -145,4 +145,4 @@ Generation 3: Scale reliably → balanced stiffness, modularity, fast manufactur
 - **LinkedIn:** https://www.linkedin.com/in/adityasinghbundela  
 - **GitHub:** https://github.com/AdityaSinghBundela  
 
-*Last updated: December 2024*
+*Last updated: December 2025*
